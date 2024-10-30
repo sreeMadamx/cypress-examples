@@ -1,0 +1,15 @@
+{
+  "name": "cypress-examples",
+  "version": "1.0.0",
+  "description": "cypress examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": ["John","Wick"],
+  "author": "Sreekanth Musale",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  }
+}
